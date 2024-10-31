@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\All_my_Apps_by_VS\\project_on_git_hub\\libraryMangementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{970B79DB-29F9-4A1F-AC84-4AF87ADBC2A4}|libraryMangementSystem\\libraryMangementSystem.csproj|e:\\all_my_apps_by_vs\\project_on_git_hub\\librarymangementsystem\\librarymangementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970B79DB-29F9-4A1F-AC84-4AF87ADBC2A4}|libraryMangementSystem\\libraryMangementSystem.csproj|solutionrelative:librarymangementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\All_my_Apps_by_VS\\project_on_git_hub\\libraryMangementSystem\\libraryMangementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "libraryMangementSystem\\Program.cs",
+              "ToolTip": "E:\\All_my_Apps_by_VS\\project_on_git_hub\\libraryMangementSystem\\libraryMangementSystem\\Program.cs",
+              "RelativeToolTip": "libraryMangementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:35:11.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
