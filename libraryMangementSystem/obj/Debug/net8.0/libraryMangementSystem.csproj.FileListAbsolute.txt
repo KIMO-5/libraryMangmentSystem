@@ -1,0 +1,15 @@
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\bin\Debug\net8.0\libraryMangementSystem.exe
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\bin\Debug\net8.0\libraryMangementSystem.deps.json
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\bin\Debug\net8.0\libraryMangementSystem.runtimeconfig.json
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\bin\Debug\net8.0\libraryMangementSystem.dll
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\bin\Debug\net8.0\libraryMangementSystem.pdb
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\obj\Debug\net8.0\libraryMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\obj\Debug\net8.0\libraryMangementSystem.AssemblyInfoInputs.cache
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\obj\Debug\net8.0\libraryMangementSystem.AssemblyInfo.cs
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\obj\Debug\net8.0\libraryMangementSystem.csproj.CoreCompileInputs.cache
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\obj\Debug\net8.0\libraryMangementSystem.sourcelink.json
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\obj\Debug\net8.0\libraryMangementSystem.dll
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\obj\Debug\net8.0\refint\libraryMangementSystem.dll
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\obj\Debug\net8.0\libraryMangementSystem.pdb
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\obj\Debug\net8.0\libraryMangementSystem.genruntimeconfig.cache
+E:\All_my_Apps_by_VS\project_on_git_hub\libraryMangementSystem\libraryMangementSystem\obj\Debug\net8.0\ref\libraryMangementSystem.dll
